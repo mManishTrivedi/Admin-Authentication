@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="authentication" method="upgrade">
+	<name>PLG_ADMIN_LOGIN</name>
+	<author>mManishTrivedi</author>
+	<creationDate>Sept2014</creationDate>
+	<copyright>Copyright (C) 2014 - 2015 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+<!--	<scriptfile>install.script.php</scriptfile>-->
+	<version>1.0</version>
+	<description></description>
+	<files>
+		<filename plugin="admin">admin.php</filename>
+<!--		<filename>index.html</filename>
+		<filename>install.script.php</filename>-->
+
+	</files>
+</extension>
